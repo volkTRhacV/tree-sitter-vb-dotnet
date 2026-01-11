@@ -28,4 +28,4 @@ Bug reports / PRs are very welcome!
 ## Installation
 
 ```bash
-npm install tree-sitter tree-sitter-vb-dotnet   # parser + runtime
+npm install tree-sitter tree-sitter-volkantr-dotnet   # parser + runtime
